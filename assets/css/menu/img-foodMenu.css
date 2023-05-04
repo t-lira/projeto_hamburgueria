@@ -1,0 +1,13 @@
+
+.img__burguer{
+  width: 100%;
+  height: 300px;
+} 
+
+@media(min-width:1024px){
+  .box__content--img{
+    width: 40%;
+  }
+}
+
+

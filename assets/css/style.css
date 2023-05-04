@@ -33,3 +33,11 @@
 @import url("footer/footer.css");
 @import url("footer/footer-list.css");
 @import url("footer/footer-navigation.css");
+
+
+/*SECTION MENU*/
+@import url("menu/section-foodMenu.css");
+@import url("menu/box-foodMenu.css");
+@import url("menu/button-foodMenu.css");
+@import url("menu/img-foodMenu.css");
+@import url("menu/text-foodMenu.css");

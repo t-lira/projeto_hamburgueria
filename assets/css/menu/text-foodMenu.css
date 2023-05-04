@@ -1,0 +1,31 @@
+.box__content--text{
+ padding: 10px;
+ text-align: center;
+}
+.content__text{
+  font-size:1.6rem;
+  color: #c5985d;
+  margin-bottom: 30px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.title__foodMenu{
+  font-size: 3rem;
+  text-align: center;
+  color: red;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-bottom: 20px;
+} 
+ 
+@media(min-width:768px){
+  .box__content--text{
+    padding: 70px;
+   }
+   .content__text{
+     font-size: 3rem;
+   }
+}
+
+
+
+

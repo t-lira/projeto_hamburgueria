@@ -1,0 +1,18 @@
+  .btn__foodMenu{
+  width: 150px;
+  height: 45px;
+  border: none;
+  background-color:rgb(148, 16, 16);
+  border-radius: 10px;
+}
+
+.btn__foodMenu:hover{
+  background-color:#df4e35;
+}
+
+.link__foodMenu{
+  color: white;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
