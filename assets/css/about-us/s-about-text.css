@@ -1,0 +1,16 @@
+.title__aboutUs{
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.text__aboutUs{
+  line-height: 2;
+}
+
+@media(min-width:768px){
+  .box__text--aboutUs{
+    padding-left: 50px;
+  }
+ 
+}
+

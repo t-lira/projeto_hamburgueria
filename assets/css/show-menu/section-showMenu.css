@@ -1,0 +1,7 @@
+.section__showMenu{
+  height: 60vh;
+  position: relative;
+  text-align: center ;
+  background: url("/assets/img/fundo-de-quadro-negro.jpg") no-repeat center/ cover; 
+  padding: 5px;
+}

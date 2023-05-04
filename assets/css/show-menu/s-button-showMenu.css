@@ -1,0 +1,18 @@
+.btn__showMenu{
+  width: 200px;
+  height: 45px;
+  border: none;
+  background-color:rgb(148, 16, 16);
+  border-radius: 10px;
+}
+
+.btn__showMenu:hover{
+  background-color:#df4e35;
+
+}
+
+.link__showMenu{
+  color: white;
+  font-size: 1rem;
+  text-transform: uppercase;
+}

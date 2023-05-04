@@ -1,0 +1,25 @@
+.footer{
+  background-color:#222222;
+  text-align: center;
+}
+
+.box__footer{
+  padding: 5px;
+}
+
+@media(min-width:756px){
+
+.container__footer{
+  background-color: #343434;
+  color: white;
+  padding: 20px 0; 
+  display: flex;
+  justify-content: center;
+}
+
+.box__footer{
+  padding: 0 20px;
+}
+
+}
+

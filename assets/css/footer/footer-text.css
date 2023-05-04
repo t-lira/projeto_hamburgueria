@@ -1,0 +1,27 @@
+.box__footer--text{
+  padding: 0 30px;
+  text-align: left;
+}
+
+.title__footer{
+  color: #c5985d;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.text__footer{
+  color: rgba(223, 219, 219, 0.767);
+  padding: 10px 0;
+}
+
+@media(min-width:756px){
+  .box__footer--text{
+    width: 30%;
+  }
+  .title__footer{
+    margin: 10px;
+  }
+
+}

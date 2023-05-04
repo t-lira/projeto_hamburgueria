@@ -1,0 +1,14 @@
+.text__location{
+  color: white;
+  line-height: 1.5;
+}
+
+.material-symbols-outlined{
+  margin-right: 10px;
+}
+
+.title__location{
+  font-size: 3rem;
+  color: #c5985d;
+  margin-bottom: 35px;
+}

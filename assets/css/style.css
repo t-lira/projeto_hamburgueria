@@ -1,0 +1,35 @@
+/*RESET*/
+@import url("reset.css");
+
+/*HEADER*/
+@import url("header/header.css");
+@import url("header/header-nav.css");
+@import url("header/header.css");
+@import url("header/header-img.css");
+
+/*SECTION TOP*/
+@import url("top/section-top.css");
+@import url("top/s-top-text.css");
+
+/*SECTION SHOW-MENU*/
+@import url("show-menu/section-showMenu.css");
+@import url("show-menu/s-text-showMenu.css");
+@import url("show-menu/s-container-showMenu.css");
+@import url("show-menu/s-button-showMenu.css");
+
+/*SECTION ABOUT US*/
+@import url("about-us/section-about-us.css");
+@import url("about-us/s-about-text.css");
+@import url("about-us/s-about-img.css");
+
+/*SECTION CONTACT*/
+@import url("contact/section-contact.css");
+@import url("contact/s-contact-text.css");
+@import url("contact/s-contact-iframe.css");
+
+/*FOOTER*/
+@import url("footer/footer-img.css");
+@import url("footer/footer-text.css");
+@import url("footer/footer.css");
+@import url("footer/footer-list.css");
+@import url("footer/footer-navigation.css");

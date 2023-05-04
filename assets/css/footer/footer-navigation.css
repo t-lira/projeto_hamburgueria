@@ -1,0 +1,11 @@
+.navigation__footer{
+  padding: 0 40px;
+}
+
+.navigation__link{
+  color: white;
+}
+
+.navigation__link:hover{
+  color: #c5985d;
+}

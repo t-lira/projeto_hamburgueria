@@ -1,0 +1,14 @@
+.section__aboutUs{
+  padding: 10px;
+  background-color: rgb(216, 204, 189);
+}
+@media(min-width:768px){
+  .section__aboutUs{
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+
+  }
+}

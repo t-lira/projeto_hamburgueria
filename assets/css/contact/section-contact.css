@@ -1,0 +1,21 @@
+.section__contact{
+  padding: 10px;
+  background-color: black;
+}
+
+.more__information{
+  padding: 20px 0;
+}
+
+@media(min-width:768px){
+  .more__information{
+  display: flex;
+  align-items: center;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+  padding: 20px 0;
+}
+
+}
+
