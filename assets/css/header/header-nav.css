@@ -2,11 +2,31 @@
   display: flex;
   gap: 10px;
 }
+
 .menu__link{
-  color: white;
+  color: var(--colorGray);
   font-size: 1.2rem;
+  display: none;
 }
 
 .menu__link:hover{
-  color: #c5985d;
+  color:var(--colorYellow);
 }
+
+.material-symbols-outlined{
+  color: var(--colorGray);
+
+}
+
+@media(min-width:1024px){
+
+  .material-symbols-outlined{
+    visibility: hidden;
+  }
+
+  .menu__link{
+    display: block;
+  }
+}
+
+

@@ -1,10 +1,12 @@
-.img__aboutUs{
-  width: 100%;
-  margin-bottom: 15px;
+.box__img--aboutUs{
+  width: 90vw;
+  height: 40vh;
+  background: url("/assets/img/index/historia.jpg") no-repeat center/ contain;
 }
 
-@media(min-width:768px){
-  .img__aboutUs{
-    margin-bottom: 0;
-  }
+@media(min-width:1024px){
+.box__img--aboutUs{
+  width: 350vw;
+  height: 350px;
+}
 }

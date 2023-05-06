@@ -2,17 +2,18 @@
   width: 200px;
   height: 45px;
   border: none;
-  background-color:rgb(148, 16, 16);
+  background-color:var(--colorRed);
   border-radius: 10px;
 }
 
 .btn__showMenu:hover{
-  background-color:#df4e35;
+  background-color:var(--colorLightRed);
 
 }
 
 .link__showMenu{
-  color: white;
+  color: var(--colorGray);
   font-size: 1rem;
   text-transform: uppercase;
 }
+

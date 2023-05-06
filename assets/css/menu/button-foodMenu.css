@@ -1,18 +1,25 @@
-  .btn__foodMenu{
+  .btn__foodMenu, .btn__menu--button{
   width: 150px;
   height: 45px;
   border: none;
-  background-color:rgb(148, 16, 16);
+  background-color:var(--colorRed);
   border-radius: 10px;
 }
 
 .btn__foodMenu:hover{
-  background-color:#df4e35;
+  background-color:var(--colorLightRed);
 }
 
-.link__foodMenu{
-  color: white;
+.link__foodMenu,.btn__menu-link{
+  color: var(--colorGray);
   font-size: 1rem;
   text-transform: uppercase;
 }
+
+.btn__menu{
+  display: flex;
+  justify-content: space-around;
+}
+
+
 

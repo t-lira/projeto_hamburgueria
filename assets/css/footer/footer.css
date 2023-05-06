@@ -1,5 +1,5 @@
 .footer{
-  background-color:#222222;
+  background-color:var(--colorDarkBlack);
   text-align: center;
 }
 
@@ -10,8 +10,8 @@
 @media(min-width:756px){
 
 .container__footer{
-  background-color: #343434;
-  color: white;
+  background-color: var(--colorLightBlack);
+  color: var(--colorGray);
   padding: 20px 0; 
   display: flex;
   justify-content: center;
@@ -22,4 +22,5 @@
 }
 
 }
+
 

@@ -1,11 +1,11 @@
  .section__foodMenu{
-  background-color: rgb(228, 207, 178);
+  background-color: rgb(223, 220, 220);
   padding: 5px 10px;
+  background: url(/assets/img/cenario-texturizado-de-parede-de-concreto-solido.jpg) no-repeat center/cover;
 } 
 
 @media(min-width:768px){
   .section__foodMenu{
-    padding: 30px 70px;
+    padding: 30px 100px;
   } 
-
 }

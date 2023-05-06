@@ -4,8 +4,7 @@
 /*HEADER*/
 @import url("header/header.css");
 @import url("header/header-nav.css");
-@import url("header/header.css");
-@import url("header/header-img.css");
+@import url("header/header-text.css");
 
 /*SECTION TOP*/
 @import url("top/section-top.css");

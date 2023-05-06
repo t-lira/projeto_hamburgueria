@@ -3,9 +3,9 @@
 }
 
 .navigation__link{
-  color: white;
+  color: var(--colorGray);
 }
 
 .navigation__link:hover{
-  color: #c5985d;
+  color: var(--colorYellow);
 }

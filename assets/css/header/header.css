@@ -1,10 +1,16 @@
 .header{
-  background-color: #222222;
+  background-color: var(--colorDarkBlack);
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding: 8px;
 }
-.box__header{
-  display: flex;
-  align-items: center;
+
+@media(min-width:1024px){
+  .header{
+    justify-content: space-around;
+  }
+
 }
+
+

@@ -4,7 +4,7 @@
 }
 
 .title__footer{
-  color: #c5985d;
+  color: var(--colorYellow);
   font-size: 1rem;
   text-transform: uppercase;
   margin: 10px 0;
@@ -12,7 +12,7 @@
 }
 
 .text__footer{
-  color: rgba(223, 219, 219, 0.767);
+  color: var(--colorGray);
   padding: 10px 0;
 }
 

@@ -4,10 +4,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@900&display=swap');
 
 *{
-  list-style: none;
-  text-decoration: none;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+:root{
+  --colorBlack: #000;
+  --colorDarkBlack: #222222;
+  --colorLightBlack: #343434;
+  --colorRed: #D92525;
+  --colorLightRed: #df4e35;
+  --colorGray: #E6DFD9;
+  --colorYellow: #c5985d;
+
+  --fontMontserrat: 'Montserrat Alternates', sans-serif;
 }
