@@ -1,0 +1,27 @@
+  .btn__foodMenu, .btn__menu--button{
+  width: 180px;
+  height: 45px;
+  border: none;
+  background-color:var(--colorRed);
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+}
+
+.btn__foodMenu:hover{
+  background-color:var(--colorLightRed);
+}
+
+.link__foodMenu, .btn__menu-link{
+  color: var(--colorGray);
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.btn__menu{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+
+

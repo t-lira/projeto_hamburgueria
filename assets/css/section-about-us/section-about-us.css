@@ -1,0 +1,23 @@
+.section__aboutUs{
+  padding: 16px;
+  background-color: rgb(216, 204, 189);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+@media(min-width:768px){
+  .section__aboutUs{
+    padding: 30px 60px ;
+  }
+}
+
+@media(min-width:1024px){
+  .section__aboutUs{
+    padding: 50px;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

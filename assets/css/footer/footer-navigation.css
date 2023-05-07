@@ -4,6 +4,7 @@
 
 .navigation__link{
   color: var(--colorGray);
+  transition: all 0.5s ease-in-out;
 }
 
 .navigation__link:hover{

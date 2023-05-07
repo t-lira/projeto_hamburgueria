@@ -1,0 +1,7 @@
+.title__showMenu{
+  font-size: 1.5rem;
+  letter-spacing: 5px;
+  color: var(--colorGray);
+  font-family: var(--fontMontserrat);
+  margin-bottom: 30px;
+}

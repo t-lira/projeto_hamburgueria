@@ -6,6 +6,8 @@
 @media(min-width:756px){
  .img__footer{
   margin: 10px;  
+  transition: all 0.5s ease-in-out;
+
   }
   .img__footer:hover{
   opacity: 0.5;

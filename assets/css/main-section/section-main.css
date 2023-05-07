@@ -1,0 +1,13 @@
+.section__top{
+  height: 100vh;
+  background: black url("/assets/img/pexels-valeria-boltneva-1639565.jpg") no-repeat right /cover;
+  position: relative;
+  background-position-x: 45%;
+} 
+
+@media (min-width:768px){
+  .section__top{
+    background: black url("/assets/img/pexels-valeria-boltneva-1639565.jpg") no-repeat center/cover;
+    background-position-y: 85%;
+}
+}

@@ -1,0 +1,19 @@
+.text__location{
+  color: var(--colorGray);
+  line-height: 1.5;
+  
+}
+
+.icon__contact{
+  margin-right: 10px;
+  color: var(--colorGray);
+}
+
+.title__location{
+  font-size: 3rem;
+  color: var(--colorYellow);
+  margin-bottom: 35px;
+  
+}
+
+

@@ -1,0 +1,46 @@
+.box__content--text{
+ padding: 10px;
+ text-align: center;
+
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ align-content: center;  
+}
+
+.content__text{
+  font-size:1.6rem;
+  color: #c5985d;
+  margin-bottom: 10px;
+  font-family: var(--fontMontserrat);
+}
+
+.content--text{
+  padding: 0 10px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.title__foodMenu{
+  font-size: 3rem;
+  text-align: center;
+  color: var(--colorRed);
+  font-family: var(--fontMontserrat);
+  margin-bottom: 20px;
+} 
+ 
+@media(min-width:768px){
+  .box__content--text{
+    padding: 0 40px ;
+    align-items: center;
+  }
+  .content__text{
+    font-size: 3rem;
+  }
+}
+
+
+
+
+

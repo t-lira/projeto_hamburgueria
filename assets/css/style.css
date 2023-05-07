@@ -2,41 +2,50 @@
 @import url("reset.css");
 
 /*HEADER*/
-@import url("header/header.css");
-@import url("header/header-nav.css");
-@import url("header/header-text.css");
+@import url("header/header-main.css");
+@import url("header/header--nav.css");
+@import url("header/header--text.css");
 
-/*SECTION TOP*/
-@import url("top/section-top.css");
-@import url("top/s-top-text.css");
+/*SECTION MAIN*/
+@import url("main-section/section-main.css");
+@import url("main-section/s-main--text.css");
 
 /*SECTION SHOW-MENU*/
-@import url("show-menu/section-showMenu.css");
-@import url("show-menu/s-text-showMenu.css");
-@import url("show-menu/s-container-showMenu.css");
-@import url("show-menu/s-button-showMenu.css");
+@import url("section-show--menu/section-showMenu.css");
+@import url("section-show--menu/s-showMenu--container.css");
+@import url("section-show--menu/s-showMenu--text.css");
+@import url("section-show--menu/s-showMenu--button.css");
+
+/*SECTION MENU*/
+@import url("menu/section-foodMenu.css");
+@import url("menu/s-foodMenu--box.css");
+@import url("menu/s-foodMenu--button.css");
+@import url("menu/s-foodMenu--text.css");
+@import url("menu/s-foodMenu--box-img.css");
+
+/*IMAGE MENU*/
+@import url("menu/menu-img/s-foodMenu-main--img.css");
+@import url("menu/menu-img/s-foodMenu-burguer--img.css");
+@import url("menu/menu-img/s-foodMenu-dessert--img.css");
+@import url("menu/menu-img/s-foodMenu-drink--img.css");
+@import url("menu/menu-img/s-foodMenu-shake--img.css");
+@import url("menu/menu-img/s-foodMenu-sides--img.css");
 
 /*SECTION ABOUT US*/
-@import url("about-us/section-about-us.css");
-@import url("about-us/s-about-text.css");
-@import url("about-us/s-about-img.css");
+@import url("section-about-us/section-about-us.css");
+@import url("section-about-us/s-about--text.css");
+@import url("section-about-us/s-about--img.css");
 
 /*SECTION CONTACT*/
-@import url("contact/section-contact.css");
-@import url("contact/s-contact-text.css");
-@import url("contact/s-contact-iframe.css");
+@import url("section-contact/section-contact.css");
+@import url("section-contact/s-contact--text.css");
+@import url("section-contact/s-contact--iframe.css");
 
 /*FOOTER*/
+@import url("footer/footer-main.css");
 @import url("footer/footer-img.css");
 @import url("footer/footer-text.css");
-@import url("footer/footer.css");
 @import url("footer/footer-list.css");
 @import url("footer/footer-navigation.css");
 
 
-/*SECTION MENU*/
-@import url("menu/section-foodMenu.css");
-@import url("menu/box-foodMenu.css");
-@import url("menu/button-foodMenu.css");
-@import url("menu/img-foodMenu.css");
-@import url("menu/text-foodMenu.css");
